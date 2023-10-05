@@ -18,19 +18,19 @@
     },
     "TG_BOT_TOKEN": {
       "description": "Your bot token, as a string.",
-      "value": ""
+      "value": "6564670359:AAFM_4UJPr_OZehplXqg4FlEdG9VcRM2Jt4"
     },
     "APP_ID": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "21513517"
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "838d3451485b95722878921877f12066"
     },
     "ADMIN_ID": {
       "description": "Your user ID like 1223445566",
-      "value": ""      
+      "value": "5904348755"      
     },
     "CAPTION_POSITION": {
       "description": "Position of your caption [Enter top or bottom or nil]",
@@ -38,7 +38,7 @@
     },
     "ADMIN_USERNAME": {
       "description": "Admin username without [@], Default will be Ts_bots",
-      "value": "Ts_bots", 
+      "value": "satyamunnao", 
       "required": false
     }        
     
